@@ -33,13 +33,3 @@ Each section comes with:
 You can go through each section sequentially or jump to the one you need.
 
 ---
-
-## 🙌 Contribute or Ask
-
-Feel free to:
-- Open an issue for feedback
-- Suggest improvements
-- Request additional sections
-
----
-
